@@ -6,6 +6,7 @@
 * The number of votes by county in the precint include 306,055 for Denver county at 82.8%, 38,855 votes for Jefferson at 10.5%, and 24,801 votes for Arapahoe at 6.7%.
 * Denver county had the largest number of votes at 306,055 which was 82.8% of the overall votes.
 <img width="124" alt="County Votes" src="https://user-images.githubusercontent.com/107015806/177079401-1b7fd41a-820e-4b15-a6aa-53255aabeab0.png">
+
 * By candidate, Diana DeGette had 272,892 votes at 73.8%, Charles Casper Stockham had 85,213 votes at 23.0%, and Raymon Anthony Doane had 11,606 votes at 3.1%.
 * Diana DeGette was the winning candidate with 272,892 votes, and having 73.8% of the overall votes.
 ## Election-Audit Summary
